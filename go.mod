@@ -1,1 +1,3 @@
-module "leetcode"
+module leetcode
+
+go 1.12
