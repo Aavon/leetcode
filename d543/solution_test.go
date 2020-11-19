@@ -36,6 +36,8 @@ func Test_a(t *testing.T) {
 
 	fmt.Println(tree.PreOrder(root))
 
+	fmt.Println(tree.PrintTreeNode(root))
+
 	fmt.Println(diameterOfBinaryTree(root))
 }
 
