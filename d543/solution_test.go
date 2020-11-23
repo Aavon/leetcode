@@ -3,7 +3,7 @@ package d543
 import (
 	"encoding/json"
 	"fmt"
-	"leetcode/tree"
+	"github.com/Aavon/leetcode/tree"
 	"testing"
 )
 
